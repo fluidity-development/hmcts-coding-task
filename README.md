@@ -58,8 +58,8 @@ This Task Management System allows users to create, view, update, and delete tas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management.git
-   cd task-management
+   git clone https://github.com/fluidity-development/hmcts-coding-task.git
+   cd hmcts-coding-task
    ```
 
 2. Create a PostgreSQL database:
